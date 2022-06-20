@@ -5,6 +5,7 @@
 <hr style="border: 2px  grey;" />
 Данный репозиторий содержит выполненные мною проекты в процессе обучения на курсе Аналитик Данных в Яндекс.Практикуме<br>
 
+<hr style="border: 2px  grey;" />
 
 Полученные навыки и знания: 
 * язык программирования Python и его библиотеки pandas, numpy, seaborn, matplotlib, plotly, scipy, sklearn, dash
